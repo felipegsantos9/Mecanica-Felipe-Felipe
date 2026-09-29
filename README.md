@@ -1,4 +1,4 @@
-# Documentação: Mecânica Felipe e Emanuelle
+# Documentação: Mecânica Felipe Santos e Felipe Lopes
 
 Descritivo:
 O projeto pede o desenvolvimento de um software para informatizar uma oficina mecânica, substituindo o controle manual. O sistema deve organizar cadastros e agendamentos para evitar erros e perdas de reservas, proteger dados sensíveis (como o CPF) conforme a LGPD, exigir autenticação de usuários com tempo de expiração da sessão e incluir documentação técnica contendo os requisitos funcionais e o Diagrama Entidade-Relacionamento (DER).
